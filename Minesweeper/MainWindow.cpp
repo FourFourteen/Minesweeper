@@ -1,5 +1,5 @@
 #include "MainWindow.h"
-//push
+
 wxBEGIN_EVENT_TABLE(MainWindow, wxFrame)
 	EVT_BUTTON(10001, OnButtonClicked)
 wxEND_EVENT_TABLE()
